@@ -1,0 +1,1 @@
+# rsschool-mostly-adequate-guide
